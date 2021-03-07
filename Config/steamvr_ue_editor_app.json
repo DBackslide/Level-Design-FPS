@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.fps-game-starter-kit-15228867.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/mjust/Documents/GitHub/Level-Design-FPS/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "FPS Game Starter Kit-15228867 [UE Editor]"
+				}
+			}
+		}
+	]
+}
